@@ -45,8 +45,33 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+Data.Head():
 
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/143114486/0bd095a7-4fbb-478a-9f96-26c38fbbf0da)
 
+Data.info():
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/143114486/4487cbaf-c2c6-4ec8-91c2-b019e0e58588)
+
+isnull() and sum():
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/143114486/3ffc0e5d-bc8d-48be-950c-a6568170218f)
+
+Data.Head() for salary:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/143114486/9213e19a-ca76-40ad-96db-a7368ff75905)
+
+MSE Value:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/143114486/35722d96-c8f8-4f3d-870d-d4c16e936009)
+
+r2 Value:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/143114486/006d6452-35f8-440d-b6f6-3635953fe397)
+
+Data Prediction:
+
+![image](https://github.com/Darkwebnew/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/143114486/1d21b78c-ad90-4a9b-9375-e34a6c62c86a)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
